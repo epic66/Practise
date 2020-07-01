@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+repositories/file\:_eecs_home_epic66_.eclipse_org.eclipse.platform_4.12.0_1773695923_linux_gtk_x86_64_configuration_org.eclipse.osgi_362_data_listener_1925729951/description=
+repositories/file\:_eecs_home_epic66_.eclipse_org.eclipse.platform_4.12.0_1773695923_linux_gtk_x86_64_configuration_org.eclipse.osgi_362_data_listener_1925729951/isSystem=true
+repositories/file\:_eecs_home_epic66_.eclipse_org.eclipse.platform_4.12.0_1773695923_linux_gtk_x86_64_configuration_org.eclipse.osgi_362_data_listener_1925729951/name=dropins
+repositories/file\:_eecs_home_epic66_.eclipse_org.eclipse.platform_4.12.0_1773695923_linux_gtk_x86_64_configuration_org.eclipse.osgi_362_data_listener_1925729951/provider=
+repositories/file\:_eecs_home_epic66_.eclipse_org.eclipse.platform_4.12.0_1773695923_linux_gtk_x86_64_configuration_org.eclipse.osgi_362_data_listener_1925729951/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/file\:_eecs_home_epic66_.eclipse_org.eclipse.platform_4.12.0_1773695923_linux_gtk_x86_64_configuration_org.eclipse.osgi_362_data_listener_1925729951/uri=file\:/eecs/home/epic66/.eclipse/org.eclipse.platform_4.12.0_1773695923_linux_gtk_x86_64/configuration/org.eclipse.osgi/362/data/listener_1925729951/
+repositories/file\:_eecs_home_epic66_.eclipse_org.eclipse.platform_4.12.0_1773695923_linux_gtk_x86_64_configuration_org.eclipse.osgi_362_data_listener_1925729951/version=1
+repositories/file\:_pkgcache_eclipse-4.12.0_.eclipseextension/description=
+repositories/file\:_pkgcache_eclipse-4.12.0_.eclipseextension/enabled=true
+repositories/file\:_pkgcache_eclipse-4.12.0_.eclipseextension/isSystem=true
+repositories/file\:_pkgcache_eclipse-4.12.0_.eclipseextension/name=/pkgcache/eclipse-4.12.0/.eclipseextension
+repositories/file\:_pkgcache_eclipse-4.12.0_.eclipseextension/provider=
+repositories/file\:_pkgcache_eclipse-4.12.0_.eclipseextension/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
+repositories/file\:_pkgcache_eclipse-4.12.0_.eclipseextension/uri=file\:/pkgcache/eclipse-4.12.0/.eclipseextension
+repositories/file\:_pkgcache_eclipse-4.12.0_.eclipseextension/version=1

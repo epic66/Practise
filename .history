@@ -1,0 +1,291 @@
+#+1578767601
+cd desktop
+#+1578767732
+submit -l 2030 lab0
+#+1578767913
+submit 2030 lab0 lab0.java
+#+1579370777
+cd
+#+1579370781
+cd home
+#+1579370882
+submit 2030 lab1 Vector2.java
+#+1579370924
+submit 2030 lab1 Point2.java
+#+1579370964
+submit 2030 lab1 Rectangle.java
+#+1579370978
+submit 2030 lab1 Circle.java
+#+1579371042
+submit 2030 lab1 Student.java
+#+1579371057
+submit 2030 lab1 Attraction.java
+#+1579371081
+submit 2030 lab1 TourismBook.java
+#+1579371119
+submit -l 2030 lab1
+#+1581269376
+cd Home
+#+1581269384
+cd www
+#+1581269416
+submit 2030 lab2 ComboLock.java
+#+1581269451
+submit 2030 lab2 ComboLockTest.java
+#+1581269474
+submit 2030 lab2 PlayTictac.java
+#+1581269501
+submit 2030 lab2 PlayTicTac.java
+#+1581269523
+submit 2030 lab2 TicTacdemo.java
+#+1581269544
+submit 2030 lab2 Passenger.java
+#+1581269553
+submit 2030 lab2 Car.java
+#+1581269577
+submit 2030 lab2 Station.java
+#+1581269596
+submit 2030 lab2 Simulation.java
+#+1581301833
+submit 2030 lab2 Combolock.java ComboLockTest.java
+#+1581301870
+submit 2030 lab2 ComboLock.java ComboLockTest.java
+#+1581301905
+submit -l 2030 lab2
+#+1582305474
+submit 2030 lab3 BookStore.java
+#+1582305501
+-l
+#+1582305561
+submit Book.java
+#+1582305588
+submit 2030 lab3 Book.java
+#+1582305614
+submit 2030 lab3 BookStoreOwner.java
+#+1582305644
+submit 2030 lab3 SortBookbyYear.java
+#+1582305670
+submit 2030 lab3 SortBooksbyYear.java
+#+1582306840
+submit 2030 lab3 FlightInfo.java, Tester.java
+#+1582306862
+submit 2030 lab3 FlightInfo.java Tester.java
+#+1582306917
+submit 2030 lab3 FlightManagementSystem.java PassengerInfo.java
+#+1582306926
+submit -l 2030 lab3
+#+1583035059
+submit eecs lab4 MyArrayList.java Course.java GPA.java Date.java Student copy.java
+#+1583035122
+submit 2030 lab4 MyArrayList.java Course.java GPA.java Date.java Student copy.java
+#+1583035242
+submit 2030 lab4 Student.java
+#+1583036767
+submit 2030 lab4 EECS_2030_lab4
+#+1583037752
+submit -l 2030 lab4
+#+1583040055
+submit 2030 lab4 Student1.java
+#+1584672329
+submit 2030 lab5 Addition.java Subtraction.java Multiplication.java
+#+1584672342
+submit 2030 lab5 GreaterThan.java LessThan.java Equal.java
+#+1584672539
+submit 2030 lab5 MyHashSet.java MyLinkedHashSet.java MyTreeSet.java
+#+1584672548
+submit 2030 lab5 TestMyLinkedHashSet.java TestMyTreeMap.java
+#+1584672625
+submit 2030 lab5 TestMyTreeSet.java
+#+1584672735
+submit 2030 lab5 TestMyLinkedHashSet.java TestMyTreeSet.java
+#+1584676486
+submit -l lab5
+#+1584676740
+submit 2030 lab5 Expression.java ExpressionCollector.java AddAll.java TimesAll.java DisjoinAll.java ConjoinAll.java
+#+1584676753
+submit -l 2030 lab5
+#+1586121920
+mkdir submit
+#+1586121975
+cd submit
+#+1586122179
+submit 2030 lab6 RecursiveMethods.java
+#+1586122253
+submit -l 2030 lab6
+#+1589232093
+cd Desktop/
+#+1589232255
+cd ..
+#+1589232289
+cd nsajadi/
+#+1589232354
+cd ../..
+#+1589232415
+cd ~
+#+1589232430
+touch firstfile
+#+1589232470
+mkdir myfirstfolder
+#+1589232543
+pico firstfile
+#+1589232782
+man ls
+#+1589232810
+passwd
+#+1589232879
+whoami
+#+1589232888
+hostname
+#+1589232993
+hello world
+#+1589233053
+echo Hello world!
+#+1589233073
+echo \"Hello world!"\
+
+#+1589233165
+echo \'Hello world!\'
+#+1589233653
+pwd
+#+1589401131
+wc testCPU.v
+#+1589401143
+we testC
+#+1589401252
+wc al.txt
+#+1589401350
+wc
+#+1589401650
+l
+#+1589401673
+ls > firstfile
+#+1589401765
+ls > firstfile.txt
+#+1589401788
+ls / >> firstfile.txt
+#+1589401840
+ls >> firstfile.txt
+#+1589401850
+wc < firstfile.txt
+#+1589401879
+less firstfile.txt
+#+1589401928
+wc firstfile.txt
+#+1589402006
+ls > file.txt
+#+1589402076
+ls -l
+#+1589402109
+ls -l | wc -l
+#+1589402139
+ls -l / | wc -l
+#+1589402165
+ls / | wc -l
+#+1589402258
+ls /
+#+1589402271
+ls | wc
+#+1589402442
+date ; who
+#+1589402484
+nedit
+#+1589402524
+nedit &
+#+1589402733
+ls *.txt | wc -l
+#+1589404142
+tr x y
+#+1590116161
+head file.txt
+#+1590116174
+head -5 file.txt
+#+1590116259
+cat file.txt
+#+1590116276
+less file.txt
+#+1590116535
+grep File file.txt
+#+1590116713
+cat asjnaoin
+#+1590116755
+catsapcomaj
+#+1590116766
+cat
+#+1590117044
+cat > list1
+#+1590117482
+cat > list2
+#+1590117517
+cat >> list1
+#+1590117543
+cat list1
+#+1590117591
+cat list1 list2 > biglist
+#+1590117602
+cat biglist
+#+1590117626
+sort
+#+1590117666
+sort < biglist
+#+1590117807
+sort < biglist > slist
+#+1590117814
+cat slist
+#+1590117839
+who
+#+1590117865
+who > names.txt
+#+1590117876
+sort < names.txt
+#+1590117919
+who | sort
+#+1590117940
+who | wc -l
+#+1590118036
+cat list1 list2 | grep p | sort | a2ps -Phockney
+#+1590118316
+man wc
+#+1590118329
+whatis wc
+#+1590118354
+apropos keyword
+#+1590118391
+apropos copy
+#+1590141833
+echo me
+#+1590455721
+mkdir myFile
+#+1590455740
+cd myFile
+#+1590455764
+echo apple
+#+1590554798
+wget https://wiki.eecs.yorku.ca/course_archive/2019-20/F/2031/_media/pb1.txt
+#+1590554901
+cat pb1.txt
+#+1591195278
+/cs/local/bin/submit 2031 lab3 lab3.sh
+#+1591216890
+cat lab3.sh
+#+1591216970
+lab3.sh me
+#+1591784784
+cat lab4.sh
+#+1591784824
+cat > java.rec
+#+1591784858
+cat java.rec
+#+1591784961
+cat > os.rec
+#+1591801723
+sh lab4.sh
+#+1592424674
+sh
+#+1592534892
+touch makeup
+#+1592534931
+submit 2031 labtest1_makeup makeup
+#+1593039026
+ls
+#+1593039036
+cat labtest1.sh

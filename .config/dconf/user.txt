@@ -1,0 +1,70 @@
+[org/gnome/desktop/lockdown]
+disable-lock-screen=true
+
+[org/gnome/evolution-data-server]
+migrated=true
+
+network-monitor-gio-name=''
+
+[org/gnome/shell]
+favorite-apps=['firefox.desktop', 'thunderbird.desktop', 'org.gnome.Terminal.desktop', 'eclipse.desktop']
+
+app-picker-view=uint32 1
+
+[org/gnome/desktop/interface]
+gtk-im-module='gtk-im-context-simple:xim'
+
+[org/gnome/desktop/input-sources]
+sources=[('xkb', 'us')]
+xkb-options=@as []
+
+[org/gnome/nautilus/preferences]
+search-filter-time-type='last_modified'
+
+default-folder-viewer='icon-view'
+
+[org/gnome/terminal/legacy]
+schema-version=uint32 3
+
+[org/gnome/software]
+check-timestamp=int64 1581269155
+
+[org/gnome/nautilus/window-state]
+geometry='890x550+241+269'
+maximized=false
+
+[org/gnome/desktop/notifications/application/eclipse]
+application-id='eclipse.desktop'
+
+[org/gnome/desktop/notifications]
+application-children=['eclipse']
+
+[org/gtk/settings/file-chooser]
+window-position=(89, 131)
+window-size=(1203, 902)
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+sidebar-width=163
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+
+[org/gnome/file-roller/listing]
+show-path=false
+
+name-column-width=250
+
+sort-method='name'
+
+sort-type='ascending'
+
+[org/gnome/file-roller/dialogs/extract]
+skip-newer=false
+recreate-folders=true
+
+[org/gnome/file-roller/ui]
+window-width=600
+window-height=480
+sidebar-width=200
